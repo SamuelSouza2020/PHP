@@ -1,6 +1,8 @@
 <?php
-
+	//variaveis
 	$nome = 'Sam';
-	echo $nome;
+	$Sam = 'Hadou ken';
+	//print com concatenação
+	echo 'O meu nome é ' .$nome;
 
 ?>
